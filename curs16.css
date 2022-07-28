@@ -1,9 +1,9 @@
 *{
     padding: 0;
     margin: 0;
-    box-sizing: border-box; 
+    box-sizing: border-box;
 }
-.container{
+/* .container{
     display: flex;
     background-color: antiquewhite;
     padding: 30px 30px;
@@ -14,7 +14,13 @@
     top: 50%;
     left: 50%;
     border-radius: 5px;
-    font-family:'Koulen','cursive';
+    font-family:'Kaisei Opti', serif;
     box-shadow: 25px 25px 30px rgba(0,0,0,0.15);
-
+} */
+.container{
+    display:flex;
+    background-color: antiquewhite;
+    padding-top: 30px;
+    width: 50%;
+    font-family:'Kaisei Opti', serif;
 }
