@@ -30,7 +30,11 @@ body{
 .text{
     text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 130px;
+    font-size: 100px;
+}
+
+.frmTxtClr {
+    color: rgb(111, 3, 92)
 }
 
 /* .row {
