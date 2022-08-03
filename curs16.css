@@ -24,7 +24,7 @@ body{
     left: 50%;
     right: 50%;
     border-radius: 5px;
-    font-family:'Kaisei Opti', serif;
+    font-family:'Kaisei Opti', serif, white;
 }
 .text{
     text-align: center;
